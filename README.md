@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/PGG"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/PGG-blue?logo=github"></a>
   <a href="https://antono4.github.io/PGG/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-7-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-11 20:55:27 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-12 00:21:41 WIB-lightgrey">
 </p>
 
 ---
@@ -63,5 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-11 20:55:27 WIB** oleh GitHub Actions .</sub>
-Last updated: 2026-09-11 22:04:15 WIB
+<sub>README ini di-generate otomatis pada **2026-09-12 00:21:41 WIB** oleh GitHub Actions .</sub>
