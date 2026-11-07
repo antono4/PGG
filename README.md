@@ -1,1 +1,26 @@
-Last updated: 2026-11-07 13:51:53 WIB
+# PGG
+
+
+
+## 📋 Overview
+
+This repository contains **8 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-11-07 14:20:34 WIB*
